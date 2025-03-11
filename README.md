@@ -17,7 +17,7 @@ To analyze bicycle purchase patterns by examining demographic factors and income
 -	Car Ownership Effect – How does car ownership impact bicycle purchase decisions?
 -	Education Level Analysis – Which educational background has the highest bicycle purchase rate?
   
-- Dashboard Interaction  <a href="https://github.com/Melanie221/Bike-Sales_Dashboard/blob/main/Screenshot_20250311_090604.png">View Dahboard</a>
+- Dashboard Interaction  <a href="https://github.com/Melanie221/Bike-Sales_Dashboard/blob/main/Screenshot_20250311_090604.png">View Dashboard</a>
 
 ## Analysis Process (Step by Step)
 -	Data Collection – Imported sales dataset into Excel.
