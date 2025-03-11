@@ -29,5 +29,16 @@ To analyze bicycle purchase patterns by examining demographic factors and income
 -	Insights & Interpretation – Identified key factors influencing bicycle purchases.
 -	Final Review & Optimization – Ensured dashboard clarity and usability for decision-making.
 
+## Project Insights 
+-	Gender & Age Influence: Men purchase more bicycles, with the highest demand from middle-aged buyers.
+-	Income Factor: Higher income groups tend to buy more bicycles.
+-	Regional Sales: Certain regions contribute more significantly to sales.
+-	Commute & Car Ownership: Buyers with shorter commutes and fewer cars are more likely to purchase bicycles.
+-	Marital & Home Ownership Impact: Married individuals and homeowners show a higher purchase tendency.
+  
+## Conclusion
+Bicycle purchases are influenced by demographics, income, and lifestyle factors. Understanding these patterns can help optimize marketing and sales strategies. 🚴📊
+
+
 ## Dashboard
 <img width="328" alt="Screenshot_20250311_090604" src="https://github.com/user-attachments/assets/f83eb650-befa-41ec-8b21-3690fbbf200f" />
